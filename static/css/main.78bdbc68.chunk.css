@@ -1,0 +1,2 @@
+.Odontogram{text-align:center;padding:5px;height:220px}svg.tooth{cursor:pointer;fill:#fff}svg.tooth .to-do{fill:red}svg.tooth .done{fill:#00f}svg.tooth .active{fill:grey}svg.tooth polygon{stroke:#000;stroke-width:.5}polygon:hover,rect:hover{fill:#d3d3d3}.tooth-wrapper{margin:0 2px;position:relative}.flex-container-justify{display:flex;justify-content:space-around}.flex-container-right{display:flex;justify-content:flex-end}.flex-container-left{display:flex;justify-content:flex-start}.tooth{font-size:6pt;font-weight:400}
+/*# sourceMappingURL=main.78bdbc68.chunk.css.map */
